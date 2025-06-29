@@ -34,3 +34,7 @@ JavaScript
 [Weather API] (e.g., OpenWeatherMap API)
 
 [Optional frameworks/libraries like Bootstrap, React, etc.]
+
+
+
+live link:- https://sakshi19110.github.io/Weather-App.Prodigy-intership/
